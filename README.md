@@ -1,17 +1,9 @@
-Public Transport Service Alert Classification
+Clustering network day-types with TomTom data
 
-This project aims to classify service alerts for public transport into different categories based on the provided text. It uses a keyword-based scoring system to classify the alerts into groups that reflect different types of disruptions and service changes. The goal is to help analyze public transport service issues over time.
+This project aims to extract, process, cluster and evaluate speed and travel time data for a given time period and an specific network. The goal is to have a data-driven method to identify vehicle patterns from probe data.
 
-Project Structure:
+Data Files: The project expects JSON files with speed and travel time data for every street, hour, direction of travel, for a period of days (15 days)
 
-Data Files: The project expects CSV files with service alert data for each year (2022, 2023).
+Output: visualizations of the clusters and ther respective internal evaluation
 
-Text Classification: 
 
-Alerts are categorized into four groups based on specific keywords found in the alert text.
-
-These groups are:
-Group A: Technical Issues (e.g., vehicle breakdown, signaling issues)
-Group B: Staff Shortages, Accidents, and Emergencies (e.g., medical emergencies, accidents)
-Group C: Traffic Delays and Accessibility Issues (e.g., traffic jams, train delays)
-Group D: Service Changes (e.g., canceled trains, reduced service)
