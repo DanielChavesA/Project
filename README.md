@@ -1,4 +1,4 @@
-Clustering network day-types with TomTom data
+Clustering network day-types from probe vehicle data
 
 This project aims to extract, process, cluster and evaluate speed and travel time data for a given time period and an specific network. The goal is to have a data-driven method to identify vehicle patterns from probe data.
 
