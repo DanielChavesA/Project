@@ -1,0 +1,66 @@
+{
+  "network": {
+    "segmentResults": [
+      {
+        "segmentId": 1,
+        "streetName": "Broadway",
+        "distance": 160,
+        "speedLimit": 45,
+        "segmentTimeResults": [
+          {"averageSpeed": 39, "averageTravelTime": 4, "day": "2023-10-01"},
+          {"averageSpeed": 38, "averageTravelTime": 4.2, "day": "2023-10-02"}
+        ]
+      },
+      {
+        "segmentId": 2,
+        "streetName": "Broadway",
+        "distance": 180,
+        "speedLimit": 45,
+        "segmentTimeResults": [
+          {"averageSpeed": 40, "averageTravelTime": 4.5, "day": "2023-10-01"},
+          {"averageSpeed": 41, "averageTravelTime": 4.3, "day": "2023-10-02"}
+        ]
+      },
+      {
+        "segmentId": 3,
+        "streetName": "5th Ave",
+        "distance": 130,
+        "speedLimit": 55,
+        "segmentTimeResults": [
+          {"averageSpeed": 45, "averageTravelTime": 3, "day": "2023-10-01"},
+          {"averageSpeed": 44, "averageTravelTime": 3.1, "day": "2023-10-02"}
+        ]
+      },
+      {
+        "segmentId": 4,
+        "streetName": "5th Ave",
+        "distance": 170,
+        "speedLimit": 55,
+        "segmentTimeResults": [
+          {"averageSpeed": 43, "averageTravelTime": 3.5, "day": "2023-10-01"},
+          {"averageSpeed": 42, "averageTravelTime": 3.6, "day": "2023-10-02"}
+        ]
+      },
+      {
+        "segmentId": 5,
+        "streetName": "Main St",
+        "distance": 200,
+        "speedLimit": 50,
+        "segmentTimeResults": [
+          {"averageSpeed": 40, "averageTravelTime": 5, "day": "2023-10-01"},
+          {"averageSpeed": 39, "averageTravelTime": 5.1, "day": "2023-10-02"}
+        ]
+      },
+      {
+        "segmentId": 6,
+        "streetName": "Main St",
+        "distance": 220,
+        "speedLimit": 50,
+        "segmentTimeResults": [
+          {"averageSpeed": 38, "averageTravelTime": 5.5, "day": "2023-10-01"},
+          {"averageSpeed": 37, "averageTravelTime": 5.6, "day": "2023-10-02"}
+        ]
+      }
+    ]
+  }
+}

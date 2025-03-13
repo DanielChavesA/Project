@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: ClusterVista
+Version: 1.0
+Summary: package that extracts data speed and travel time, process it, cluster it and makes visualizations, also produces an internal evaluation of the clusters 
+Author: Daniel Chaves
+Requires-Dist: matplotlib==3.10.1
+Requires-Dist: numpy==2.2.3
+Requires-Dist: orjson==3.10.15
+Requires-Dist: pandas==2.2.3
+Requires-Dist: pytest==8.3.5
+Requires-Dist: python_dateutil==2.9.0.post0
+Requires-Dist: scikit_learn==1.6.1
+Requires-Dist: setuptools==75.8.2
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
